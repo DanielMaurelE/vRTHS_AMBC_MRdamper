@@ -1,4 +1,4 @@
-# Capitulo 8: Identificacion del amortiguador MR
+# Capitulo 7: Identificacion del amortiguador MR
 ## Descripcion
 
 Se ajusta el modelo modificado de Bouc-Wen al amortiguador MR, con resultados obtenidos experimentalmente.
